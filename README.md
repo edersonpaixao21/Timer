@@ -5,7 +5,7 @@
 </p>
 
 ### 🛠  Descrição
- 
+  
 </br> 
 
 O projeto tem como objetivo cronometrar o tempo de codar um projeto. 
